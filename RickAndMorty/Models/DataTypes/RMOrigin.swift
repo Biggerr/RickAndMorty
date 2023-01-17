@@ -8,6 +8,6 @@
 import Foundation
 
 struct RMOrigin: Codable {
-    let namre: String
+    let name: String
     let url: String
 }
